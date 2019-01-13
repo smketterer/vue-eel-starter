@@ -4,7 +4,7 @@ This is a basic Vue starter project to introduce people to Eel. I have used Eel 
 
 ## Get started
 
-### Setting from scratch
+### Starting from scratch
 
 ```
 pip3 install eel
@@ -43,7 +43,7 @@ Navigate to `vue/public` and add the following to `index.html` in the head tag:
 <script type=text/javascript src=/eel.js></script>
 ```
 
-run `npm run build`.
+Run `npm run build`.
 
 Then in `app.py` type:
 
